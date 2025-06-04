@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Time de futebol',
     'Ana Castela tem alguma ligação com o Corinthians?',
-    'Sim, ela apoia a torcida do Corinthians e fez um recado importante para os torcedores do Timão, convocando-os para doar produtos de higiene pessoal, como forma de ajudar a comunidade'
+    'Sim, ela apoia a torcida do Corinthians.'
 )
