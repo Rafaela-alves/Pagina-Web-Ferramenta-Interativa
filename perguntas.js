@@ -1,23 +1,23 @@
 criaCartao(
-    'Felicidades',
-    'O que precisa para ser feliz?',
-    ' Fazer o que gosta!!!'
+    'Nome',
+    'Qual o nome completo de Ana Castela?',
+    ' Ana Flavia Castela!!!'
 )
 
 criaCartao(
-    'Informática',
-    'Qual o melhor canal para aprender informática',
-    '@rasinformática'
+    'Aniversario',
+    'Em que dia Ana Castela faz aniversário?',
+    ' 16 de novembro'
 )
 
 criaCartao(
-    'Qual é a melhor turma do CERB',
-    'A que mais se dedica as aulas do Prof. Rafael?',
-    'Estou em dúvida'
+    'Cidade natal',
+      'Qual a cidade natal de Ana Castela?',
+    ' Amambai, Mato Grosso do Sul. '
 )
 
 criaCartao(
-    'Ganhando o Mundo',
-    'Quem participou do Programa Ganhado o mundo em 2024?',
-    'Eloisa Amorim dos Santos 👏👏👏'
+    'Time de futebol',
+    'Ana Castela tem alguma ligação com o Corinthians?',
+    'Sim, ela apoia a torcida do Corinthians e fez um recado importante para os torcedores do Timão, convocando-os para doar produtos de higiene pessoal, como forma de ajudar a comunidade'
 )
